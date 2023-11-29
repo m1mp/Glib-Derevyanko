@@ -39,8 +39,6 @@ int main() {
     showroom->addCar("Toyota Camry");
     showroom->addCar("Honda Accord");
     showroom->addCar("Ford Mustang");
-
-    // Вивід доступних автомобілів
     showroom->displayCars();
 
     return 0;
